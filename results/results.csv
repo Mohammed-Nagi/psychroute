@@ -1,0 +1,4 @@
+Strategy,error,escalation,coverage,dc_vs_AI,dc_vs_human,group_gap,avg_cost,cum_regret
+Model-Alone,0.026,0.0%,100.0%,+0.000,-0.044,0.0029,1.00,89
+Threshold,0.023,0.7%,99.3%,-0.003,-0.047,0.0024,1.05,78
+PsychRoute,0.017,26.5%,73.5%,-0.009,-0.053,0.0045,3.18,53
